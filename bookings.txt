@@ -1,0 +1,30 @@
+Passenger: Liene Kalniņa
+Flight: Riga → London
+Seat: 1A
+Price: 150.0 EUR
+----------------------------------
+Passenger: Zane Liepa
+Flight: Riga → London
+Seat: 1B
+Price: 130.0 EUR
+----------------------------------
+Passenger: Jānis Bērziņš
+Flight: Riga → London
+Seat: 1A
+Price: 150.0 EUR
+----------------------------------
+Passenger: Jānis Lll
+Flight: Riga → London
+Seat: 1C
+Price: 150.0 EUR
+----------------------------------
+Passenger: Pēteris Ozols
+Flight: Riga → Istanbul
+Seat: 1B
+Price: 200.0 EUR
+----------------------------------
+Passenger: Reinis Pūpols
+Flight: Riga → Athens
+Seat: 1A
+Price: 200.0 EUR
+----------------------------------
